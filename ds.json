@@ -1,0 +1,35 @@
+{
+  "users":[
+    {
+      "First_Name" :"Yogee",
+      "Last_Name"  :"J",
+      "ID"         :7
+    },
+    {
+      "First_Name" :"Hari",
+      "Last_Name"  :"J",
+      "ID"         :27
+    },
+    {
+      "First_Name" :"Bhuvanesh",
+      "Last_Name"  :"J",
+      "ID"         :15
+    }
+
+  ],
+  "Job_Role":[
+    {
+      "ID":7,
+      "Role":"Automation Tester"
+    },
+    {
+      "ID":27,
+      "Role":"Manual Tester"
+    },
+    {
+      "ID":15,
+      "Role":"API Tester"
+    }
+  ]
+  
+}
